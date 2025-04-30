@@ -3,7 +3,6 @@
 # REG.NO: 212224040060
 
 # Aim :
-
 To  implement the DDA algorithm to draw a line using a c coding
 
 # Algorithms :
@@ -26,5 +25,4 @@ Step 5 − Plot the pixel by successfully incrementing x and y coordinates accor
 ![Screenshot 2025-04-30 200821](https://github.com/user-attachments/assets/d771f8ba-d8e2-4f70-aae3-59b0108af319)
 
 # Result :
-
-o implement the DDA algorithm to draw a line using a c coding is verified successfully
+To implement the DDA algorithm to draw a line using a c coding is verified successfully
