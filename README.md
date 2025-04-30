@@ -18,8 +18,7 @@ Step 4 − Calculate the increment in x coordinate and y coordinate
 
 Step 5 − Plot the pixel by successfully incrementing x and y coordinates accordingly and complete the drawing of the line
 
-**Program :**
-
+# Program :
 ![Screenshot 2025-04-30 200757](https://github.com/user-attachments/assets/b638e631-9031-4a63-a877-8f379f1b4edc)
 
 # Output :
