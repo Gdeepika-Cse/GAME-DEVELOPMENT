@@ -1,10 +1,12 @@
 ## EX 1: DDA ALGORITHM 
+# NAME: DEEPIKA G
+# REG.NO: 212224040060
 
-**Aim :**
+# Aim :
 
 To  implement the DDA algorithm to draw a line using a c coding
 
-**Algorithms :**
+# Algorithms :
 
 Step 1 − Get the input of two end points (X0,Y0) and (X1,Y1)
 
@@ -18,6 +20,12 @@ Step 5 − Plot the pixel by successfully incrementing x and y coordinates accor
 
 **Program :**
 
-**Output :**
+![Screenshot 2025-04-30 200757](https://github.com/user-attachments/assets/b638e631-9031-4a63-a877-8f379f1b4edc)
 
-**Result :**
+# Output :
+
+![Screenshot 2025-04-30 200821](https://github.com/user-attachments/assets/d771f8ba-d8e2-4f70-aae3-59b0108af319)
+
+# Result :
+
+o implement the DDA algorithm to draw a line using a c coding is verified successfully
